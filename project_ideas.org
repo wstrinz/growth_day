@@ -1,0 +1,56 @@
+* Projects
+** Existing
+*** [[https://github.com/rking/ag.vim][Ag.vim]]
+*** [[https://wiki.bendyworkers.com/][wiki]]
+*** Bendyworks.com
+*** [[https://github.com/bendyworks/bw_poopdeck][Poopdeck]]
+**** Quickbooks Integration
+**** Other Features
+*** [[https://github.com/wstrinz/dicot][Dicot]]
+*** Awesome Replacement
+**** Clojure / Hoplon
+*** [[https://github.com/twopoint718/general_eod][General EOD]]
+*** Clojure BetaMax
+*** [[https://github.com/devn/yokogiri][Yokogiri]]
+*** GetClojure.org
+*** 4Clojure API
+*** Clojars.org
+*** Remembrance
+*** Caravan
+** New
+*** Dashboard
+*** E-Learning for Bendyworks
+*** Data Viz Project
+**** ALICE Data Thing
+*** AutoBlahg
+*** Booking Systen
+* What do people want to do
+** Rachel
+*** Writing copy
+*** Photos
+** Jon
+*** Haskell
+** Will
+*** Clojure
+*** Machine Learning
+** Matt
+*** Clojure
+*** javascript
+** Betsy
+*** ???????
+*** Something useful
+*** Not a lot of context switching
+** Mic
+*** Data Viz
+*** UI / UX
+*** Javascript
+** Ian
+*** Literally Whatever
+** Josh
+*** Node
+*** Clojure
+*** Tooling
+*** Frontend
+** Devin
+*** Clojure
+*** Actual Product
